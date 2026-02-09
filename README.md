@@ -19,7 +19,7 @@ My public repositories are hands-on experiments in how AI reshapes our work and 
 
 ### Selected Projects: 
 
-* [AI Readiness Scores]() Spotting leaders and laggards an in AI adoption based on job descriptions and othe public signals
+* [AI Readiness Scores](/signalscore) Spotting leaders and laggards an in AI adoption based on job descriptions and othe public signals
 * [Claude Skills Contributions]() Pull requests to Claude Knowledge Work Plugins
 * [BMAD contributions]() Pull requests to BMAD (Breakthrough Method of Agile AI Driven Development)
 * [Lift Driven Skills Development]() Run baseline tests with generic prompts to benchmark custom skills

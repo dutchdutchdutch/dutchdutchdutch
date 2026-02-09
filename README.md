@@ -9,7 +9,7 @@
 
 I'm a forward-thinking professional working at the intersection of **AI readiness** and **workforce transformation**, focused on building product teams that decide better and move faster. 
 
-My main public repositories are hands-on experiments in how AI reshapes our work and our lives. Additional projects foster the discipline of personal health and fitness, finding ways to stay resilient and enjoy the journey through a demanding professional landscape.
+My public repositories are hands-on experiments in how AI reshapes our work and our lives. Additional projects foster the discipline of personal health and fitness, finding ways to stay resilient and enjoy the journey.
 
 ### Current Focus
 

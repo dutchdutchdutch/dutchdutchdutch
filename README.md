@@ -2,20 +2,21 @@
 **dutchdutchdutch/dutchdutchdutch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
+# Shaping Work & Wellness
 
-# The Future of Working
+### Engineering agentic workflows and resilient systems through human-centric design
 
-### Agentic workflows, human-centric design, and resilient systems. 
+Program manager by trade, dynamic explorer by nature. I currently work at the intersection of **AI readiness** and **workforce transformation**, focused on building (product) teams that move faster and decide better. 
 
-I'm a forward-thinking professional working at the intersection of **AI readiness** and **workforce transformation**, focused on building product teams that decide better and move faster. 
+I believe that the sustained quality of our output is a direct reflection of the quality of our connections with teammates, our goals, and the technolgies we use.
 
-My public repositories are hands-on experiments in how AI reshapes our work and our lives. Additional projects foster the discipline of personal health and fitness, finding ways to stay resilient and enjoy the journey.
+While I’m not a career developer, I’ve experienced enough to practice the disciplines that make for the best solutions. Most of my public repos are hands-on experiments in how AI reshapes our work, alongside tools built to enrich my own health and fitness journey.
 
 ### Current Focus
 
 * **Agentic Workflows:** Moving beyond theory to build systems that plan, execute, and iterate autonomously.
 * **Role Evolution:** Exploring how professionals stay "future-proof" by shifting from execution to high-level orchestration and judgment.
-* **Human-Centric Design:** Designing workflows that keep humans meaningfully in the loop while offloading routine cognitive load.
+* **Human-Centric Design:** Designing systems that automate the mundane, carving out space for human intuition and meaningful decision-making.
 
 ### Selected Projects: 
 

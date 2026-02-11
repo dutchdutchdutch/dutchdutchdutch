@@ -20,7 +20,7 @@ My public repositories are hands-on experiments in how AI reshapes our work and 
 ### Selected Projects: 
 
 * [AI Readiness Scores](https://github.com/dutchdutchdutch/signalscore) Spotting leaders and laggards an in AI adoption based on job descriptions and othe public signals
-* [Claude Skills plugin](https://github.com/dutchdutchdutch/knowledge-work-plugins/tree/main/project-intelligence)) A Process based project analysis plugin for Claude's Knowledge-Work-Plugins
+* [Claude Skills plugin](https://github.com/dutchdutchdutch/knowledge-work-plugins/tree/main/project-intelligence) A Process based project analysis plugin for Claude's Knowledge-Work-Plugins
 * [BMAD contributions]() Program management skills for BMAD (Breakthrough Method of Agile AI Driven Development)
 * [Lift Driven Skills Development](https://github.com/dutchdutchdutch/project-manager) Run baseline tests with generic prompts to benchmark custom skills
 

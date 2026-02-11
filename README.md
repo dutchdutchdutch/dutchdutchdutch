@@ -13,7 +13,7 @@ While I’m not a career developer, I’ve experienced enough to practice the di
 ### Current Focus
 
 * **Agentic Workflows:** Moving beyond theory to build systems that plan, execute, and iterate autonomously.
-* **Role Evolution:** Exploring how professionals stay "future-proof" by shifting from execution to high-level orchestration and judgment.
+* **Role Evolution:** Exploring how professionals stay "future-proof" by displacing execution with high-level agent orchestration and judgment.
 * **Human-Centric Design:** Designing systems that automate the mundane, carving out space for human intuition and meaningful decision-making.
 
 ### Selected Projects: 

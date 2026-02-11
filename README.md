@@ -5,6 +5,7 @@
 # Shaping Work & Wellness
 
 ### Engineering agentic workflows and resilient systems through human-centric design
+---
 
 Program manager by trade, dynamic explorer by nature. I currently work at the intersection of **AI readiness** and **workforce transformation**, focused on building (product) teams that move faster and decide better. 
 

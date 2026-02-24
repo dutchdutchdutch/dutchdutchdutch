@@ -6,7 +6,7 @@
 
 Program manager by trade, dynamic explorer by nature. I currently work at the intersection of **AI readiness** and **workforce transformation**, focused on building (product) teams that move faster and decide better. 
 
-I believe that the sustained quality of our output is a direct reflection of the quality of our connections with teammates, our goals, and the technolgies we use.
+I believe that the quality of our output never exceeds the quality of our connections with teammates, our alignment, or our command of the tools we use.
 
 While I’m not a career developer, I’ve experienced enough to practice the disciplines that make for the best solutions. Most of my public repos are hands-on experiments in how AI reshapes our work, alongside tools built to enrich my own health and fitness journey.
 

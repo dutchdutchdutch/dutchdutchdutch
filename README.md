@@ -18,9 +18,9 @@ While I’m not a career developer, I’ve experienced enough to practice the di
 
 ### Selected Projects: 
 
-* [AI Readiness Scores](https://github.com/dutchdutchdutch/signalscore) Spotting leaders and laggards an in AI adoption based on job descriptions and othe public signals
-* [Claude Skills plugin](https://github.com/dutchdutchdutch/knowledge-work-plugins/tree/main/project-intelligence) A process-based project analysis plugin for Claude's Knowledge-Work-Plugins
-* [BMAD module](https://github.com/dutchdutchdutch/BMAD-METHOD/tree/main/src/pim) Project management skills to add on to BMAD (Breakthrough Method of Agile AI Driven Development)
-* [Lift Driven Skills Development](https://github.com/dutchdutchdutch/project-manager) Run baseline tests with generic prompts to assess the [lift of custom skills](https://github.com/dutchdutchdutch/project-manager/blob/main/docs/eval-driven-development.md)
+* [Spec Ladder](https://github.com/dutchdutchdutch/spec-ladder/wiki) One `spec/` folder of shared truths that people and coding agents build from together. Three short ladders (conventions, concepts, scope), each starting thin; the PRD is a late rung, added only when scenarios leave "why" debates open.
+* [One-Vocabulary (ontology workbench)](https://github.com/dutchdutchdutch/ontology-workbench) A Claude Code workflow that mines a product's key terms from Drive, Linear and git, checks they are defined and used consistently, and draws them as an ontology. Fills the Concepts rungs of the Spec Ladder.
+* [AI Readiness Scores](https://github.com/dutchdutchdutch/signalscore) Spotting leaders and laggards in AI adoption from job descriptions and other public signals.
+* [Lift Driven Skills Development](...) Baseline tests with generic prompts to measure the lift of custom skills.
 
 My projects are hands-on explorations, moving beyond theory to demonstrate what human-AI collaboration looks like in practice. I share this work to ground the AI conversation in real experimentation. Explore the repos below to see these agentic systems in action. I’m always open to feedback and collaboration.
